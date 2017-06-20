@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WoRdZ</string>
+    <string name="action_settings">Settings</string>
+    <string name="scoreTitle">SCORE</string>
+    <string name="score">0</string>
+    <string name="submit">GO!</string>
+    <string name="hint">HINT</string>
+    <string name="restart">RESTART</string>
+</resources>
